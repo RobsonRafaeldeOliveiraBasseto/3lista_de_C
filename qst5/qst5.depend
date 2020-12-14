@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604938119 source:c:\users\on\documents\projetos\lista 3\qst5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
